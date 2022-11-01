@@ -36,3 +36,7 @@
 
 /* PMW3360 Settings */
 #define POINTING_DEVICE_CS_PIN B0
+
+/* Define DPI Settings */
+#define PLOOPY_DPI_OPTIONS { 800, 1000, 1600 }
+#define PLOOPY_DPI_DEFAULT 2
